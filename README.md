@@ -1,4 +1,4 @@
-execute the test files
+download logs (two large to fit in this repro) and place in a folder "log" and execute the test files
 - tests_alpha.py
 - tests_inductive_HD2017
 - tests_inductive_RTFM
